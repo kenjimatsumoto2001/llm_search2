@@ -12,16 +12,19 @@ mashup_data = './data/filtered_mashup_data.json'
 "#未実装#(フィルタしていない為)"
 """""""③llmモデル選択"""""""""
 model = "deepseek-r1:70b"
-model = "llama3:70b"
+# model = "llama3.3:latest"
+#model = "gemma3:27b"
 """""""④プロンプト選択"""""""""
-#prompt_method_name = "zero_shot_cot"
-#prompt_method_name = "few_shot_cot"
+prompt_method_name = "zero_shot_cot"
+# prompt_method_name = "few_shot_cot"
 #prompt_method_name = "zero_shot_cot_with_inference_process"
-prompt_method_name = "few_shot_cot_with_inference_process"
+# prompt_method_name = "few_shot_cot_with_inference_process"
+# prompt_method_name ="plan_and_solve"
 """""""⑤評価サービスの選定"""""""""
 #全てのサービスを評価時
 single_service_name = None
 #特定のサービスのみ評価時(サービス名を指定)
+# single_service_name = "myflickrtool"
 "#未実装(それ以降のサービスを評価するか, 単一だけ評価するか悩み中のため)"
 """""""⑥要件文ごとの評価回数・llm呼び出し上限"""""""""
 #要件文ごとの評価回数
@@ -79,6 +82,7 @@ def save_to_json(data, prompt_method_name, mashup_name):
         "few_shot_cot": "few_cot",
         "zero_shot_cot": "zero_cot",
         "zero_shot_cot_with_inference_process": "zero_cot_infer",
+        "plan_and_solve":"plan_and_solve"
         # 必要に応じて他も追加可能
     }
     # モデル名を短縮名に変換
@@ -87,6 +91,8 @@ def save_to_json(data, prompt_method_name, mashup_name):
             return "deepseek"
         elif "llama" in model_str.lower():
             return "llama"
+        elif "gemma" in model_str.lower():
+            return "gemma"
         else:
             return "other"
     #モデル名を変換
@@ -138,6 +144,9 @@ stop_flag = False
 #一つずつサービスを実行する
 for mashup_name, details in available_mashup.items():
     #事例に使用したサービスをスキップ
+    if single_service_name and mashup_name != single_service_name:
+        continue
+    #事例に使用したサービスをスキップ
     if mashup_name in skip_mashp_names:
         continue 
     #現在のmash upサービス情報取得
@@ -160,6 +169,7 @@ for mashup_name, details in available_mashup.items():
         call_count += 1
         print(f"Iteration {i+1}, Total call: {call_count}")
         response = recommendation_system.choice_prompt(prompt_method_name, model)
+        print(response)
         save_to_json(response, prompt_method_name, mashup_name)
 
     if stop_flag:

@@ -15,8 +15,8 @@ class MashupServiceRecommendation_open_llm:
             host='http://localhost:11434',
             headers={'Content-Type': 'application/json'}
         )
-
-    def zero_shot_cot(self):
+    
+    def plan_and_solve(self):
         messages = [
             # 1. system ロールでAIの振る舞いを定義
             {
@@ -24,7 +24,7 @@ class MashupServiceRecommendation_open_llm:
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
                     "It selects and proposes suitable APIs from the specified Available categories and Available APIs based on the given Requirements.\n"
-                    "Let's think step by step."
+                    
                 )
             },
 
@@ -35,6 +35,34 @@ class MashupServiceRecommendation_open_llm:
                     f"Available categories: {', '.join(self.available_categories)}\n"
                     f"Available APIs: {self.available_apis}\n"
                     f"Requirements: {self.service_requirements}\n\n"
+                    "Let's first understand the problem and devise a plan to solve the problem. Then, let's carry out the plan and solve the problem step by step."
+
+                )
+            }
+        ]
+
+        return messages
+
+
+    def zero_shot_cot(self):
+        messages = [
+            # 1. system ロールでAIの振る舞いを定義
+            {
+                "role": "system",
+                "content": (
+                    "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
+                    "It selects and proposes suitable APIs from the specified Available categories and Available APIs based on the given Requirements.\n"
+                )
+            },
+
+            # 2. ユーザー入力を user ロールとして分離
+            {
+                "role": "user",
+                "content": (
+                    f"Available categories: {', '.join(self.available_categories)}\n"
+                    f"Available APIs: {self.available_apis}\n"
+                    f"Requirements: {self.service_requirements}\n\n"
+                    "Let's think step by step."
                     "Please provide the following:\n"
                     "**Reasoning**:\n"
                     "   - Detailed breakdown of the thought process\n\n"
@@ -56,7 +84,6 @@ class MashupServiceRecommendation_open_llm:
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
                     "It selects and proposes suitable APIs from the specified available categories and available APIs based on the given Requirements.\n"
-                    "Let's think step by step."
                 )
             }
         ]
@@ -71,6 +98,7 @@ class MashupServiceRecommendation_open_llm:
                 f"Available categories: {', '.join(self.available_categories)}\n"
                 f"Available APIs: {self.available_apis}\n"
                 f"Requirements: {self.service_requirements}\n\n"
+                "Let's think step by step."
                 "Please provide the following:\n"
                 "**Reasoning**:\n"
                 "   - Detailed breakdown of the thought process\n\n"
@@ -97,7 +125,6 @@ class MashupServiceRecommendation_open_llm:
                     "2. Identify and propose multiple highly relevant API categories from the Available categories.\n"
                     "3. Match APIs from the proposed categories and identify relevant ones based on their descriptions.\n"
                     "4. Select and recommend the best-suited APIs with reasons.\n"
-                    "Let's think step by step."
                 )
             },
 
@@ -108,6 +135,7 @@ class MashupServiceRecommendation_open_llm:
                     f"Available categories: {', '.join(self.available_categories)}\n"
                     f"Available APIs: {self.available_apis}\n"
                     f"Requirements: {self.service_requirements}\n\n"
+                    "Let's think step by step."
                     "Please provide the following:\n"
                     "**Reasoning**:\n"
                     "   - Detailed breakdown of the thought process (based on the 4-step inference process above)\n\n"
@@ -171,7 +199,9 @@ class MashupServiceRecommendation_open_llm:
         messages = prompt_method()
         
         try:
-            response = self.client.chat(model=model, messages=messages)
+            response = self.client.chat(model=model, messages=messages,options={
+                "temperature": 0
+            })
             return response.message.content
         except Exception as e:
             print(f"エラーが発生しました: {e}")
