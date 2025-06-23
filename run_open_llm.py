@@ -15,11 +15,11 @@ model = "deepseek-r1:70b"
 # model = "llama3.3:latest"
 #model = "gemma3:27b"
 """""""④プロンプト選択"""""""""
-prompt_method_name = "zero_shot_cot"
+#prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "few_shot_cot"
 #prompt_method_name = "zero_shot_cot_with_inference_process"
 # prompt_method_name = "few_shot_cot_with_inference_process"
-# prompt_method_name ="plan_and_solve"
+prompt_method_name ="plan_and_solve"
 """""""⑤評価サービスの選定"""""""""
 #全てのサービスを評価時
 single_service_name = None
