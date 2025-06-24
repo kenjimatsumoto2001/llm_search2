@@ -138,7 +138,7 @@ class MashupServiceRecommendation_open_llm:
                     "Let's think step by step."
                     "Please provide the following:\n"
                     "**Reasoning**:\n"
-                    "   - Detailed breakdown of the thought process (based on the 4-step inference process above)\n\n"
+                    "- Detailed breakdown of the thought process\n\n"
                     "**Conclusion**:\n"
                     "   - Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n"
                     "   - Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n"
