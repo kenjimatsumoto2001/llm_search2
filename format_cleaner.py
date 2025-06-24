@@ -8,12 +8,13 @@ import os
 input_model = "llama3.3:latest"
 #input_model = "gemma3:27b"
 """""""②整形したいプロンプト選択"""""""""
-prompt_method_name = "zero_shot_cot"
+# prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "few_shot_cot"
 #prompt_method_name = "zero_shot_cot_with_inference_process"
-# prompt_method_name = "few_shot_cot_with_inference_process"
+prompt_method_name = "few_shot_cot_with_inference_process"
 # prompt_method_name ="plan_and_solve"
-
+"""""""③使用したいGPU"""""""""
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 ########################################################################
 # メソッド名 → ファイル名のマッピング
@@ -49,37 +50,63 @@ client = Client(
 
 ###################### 整形プロンプトの構築 ####################### 
 def get_formatting_prompt(prompt_method_name: str, text: str) -> str:
-    #zero-shot_cotもしくは
-    if prompt_method_name in ["zero_shot_cot", "zero_shot_cot_with_inference_process"]:
+    if prompt_method_name in ["zero_shot_cot"]:
         return f"""
 ---
 {text}
 ---
 Therefore, The answer is
-   Recommend categories: ['Category_name', 'Category_name', ...]
-   Recommend All matched APIs: ['API_name', 'API_name', ...]
+   Recommend categories: ['Category_name', 'Category_name', ...]\n
+   Recommend All matched APIs: ['API_name', 'API_name', ...]\n
 
 """
-    elif prompt_method_name in ["few_shot_cot", "few_shot_cot_with_inference_process"]:
-        return f"""
-以下は {prompt_method_name} 形式のfew-shotプロンプトです。
-以下の文章を、事例とステップに分けてMarkdown形式で整形してください：
+    
 
+    elif prompt_method_name in ["few_shot_cot"]:
+        return f"""
 ---
 {text}
 ---
+Therefore, The answer is
+    Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
+    Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
+    Final recommended APIs: ['API_name', 'API_name', ...]\n
 """
+    
+    elif prompt_method_name in ["few_shot_cot_with_inference_process"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
+    Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
+    Final recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+
+    elif prompt_method_name in ["zero_shot_cot_with_inference_proces"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
+    Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
+    Final recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+
     elif prompt_method_name == "plan_and_solve":
         return f"""
-以下は {prompt_method_name} 形式のプロンプトです。
-以下の文章を「計画」「ステップ」「結論」に分けて、構造化されたMarkdown形式に整形してください：
-
 ---
 {text}
 ---
+Therefore, The answer is
+    Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
+    Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
+    Final recommended APIs: ['API_name', 'API_name', ...]\n
 """
-    else:
-        return f"以下の文章をMarkdown形式に整形してください：\n\n{text}"
 
 ###################### LLMで整形 ####################### 
 def format_text_with_model(text: str, prompt_method_name: str) -> str:
