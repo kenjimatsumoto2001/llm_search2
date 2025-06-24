@@ -11,10 +11,11 @@ mashup_data = './data/filtered_mashup_data.json'
 #複合サービスの内、完全データ and api数が1も含む
 "#未実装#(フィルタしていない為)"
 """""""③llmモデル選択"""""""""
-model = "deepseek-r1:70b"
-# model = "llama3.3:latest"
+# model = "deepseek-r1:70b"
+model = "llama3.3:latest"
 #model = "gemma3:27b"
 """""""④プロンプト選択"""""""""
+#prompt_method_name ="zero-shot"
 #prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "few_shot_cot"
 #prompt_method_name = "zero_shot_cot_with_inference_process"

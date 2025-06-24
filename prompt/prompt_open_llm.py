@@ -36,7 +36,12 @@ class MashupServiceRecommendation_open_llm:
                     f"Available APIs: {self.available_apis}\n"
                     f"Requirements: {self.service_requirements}\n\n"
                     "Let's first understand the problem and devise a plan to solve the problem. Then, let's carry out the plan and solve the problem step by step."
-
+                    "Please provide the following:\n"
+                    "**Reasoning**:\n"
+                    "   - Detailed breakdown of the thought process\n\n"
+                    "**Conclusion**:\n"
+                    "   - Recommend categories: ['Category_name', 'Category_name', ...]\n"
+                    "   - Recommend All matched APIs: ['API_name', 'API_name', ...]"
                 )
             }
         ]
