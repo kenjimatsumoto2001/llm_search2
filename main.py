@@ -1,5 +1,15 @@
-#これはopenai_apiを使用する
+#メイン処理
+#⚠️ promptがopen_llmとgptで異なる。要確認!!
 ######################以下選択必須#####################################
+
+#事例を呼び出し
+import pandas as pd
+import pprint
+import json
+import os
+from dotenv import load_dotenv
+#open_ai_apiキーを取得
+
 """""""①APIデータ"""""""""
 # 複合サービスに利用されているAPI情報のみ抽出(メイン)
 api_data = './data/filtered_api_data.json'
@@ -11,40 +21,34 @@ mashup_data = './data/filtered_mashup_data.json'
 #複合サービスの内、完全データ and api数が1も含む
 "#未実装#(フィルタしていない為)"
 """""""③llmモデル選択"""""""""
-# model = "gpt-4o"
-model = "gpt-4o-mini"
+# model = "deepseek-r1:70b"
+# model = "llama3.3:latest"
+model = "gpt-4.1-mini"
 """""""④プロンプト選択"""""""""
-#prompt_method_name = "zero_shot_cot"
-#prompt_method_name = "few_shot_cot"
-#prompt_method_name = "zero_shot_cot_with_inference_process"
-prompt_method_name = "few_shot_cot_with_inference_process"
-"""""""⑤評価サービスの選定"""""""""
+# prompt_method_name = "few_shot_cot"
+# prompt_method_name = "few_shot_cot_with_inference_process"
+# prompt_method_name = "few_shot"
+# prompt_method_name = "few_shot_ablation"
+# prompt_method_name ="plan_and_solve"
+# prompt_method_name = "zero_shot_cot"
+# prompt_method_name = "zero_shot_cot_with_inference_process"
+prompt_method_name ="zero_shot"
+"""""""⑤使用GPU指定"""""""""
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+"""""""⑥評価サービスの選定"""""""""
 #全てのサービスを評価時
-single_service_name = None
-#特定のサービスのみ評価時(サービス名を指定)
-"#未実装(それ以降のサービスを評価するか, 単一だけ評価するか悩み中のため)"
-"""""""⑥要件文ごとの評価回数・llm呼び出し上限"""""""""
+start_key= None
+#特定の以降サービスのみ評価時(サービス名を指定)
+start_key='contextwit'
+"""""""⑦要件文ごとの評価回数・llm呼び出し上限"""""""""
 #要件文ごとの評価回数
 iterations = 1
 #llm呼び出し上限
 max_calls = 2000
 
-"""""""⑦事例に使用しているサービスは評価しない"""""""""
+"""""""⑧事例に使用しているサービスは評価しない"""""""""
 skip_mashp_names = {"radaar", "2lingual-bing-search", "aircellcall", "wishgenies", "bible-mapped"}
 #####################################################################
-
-#事例を呼び出し
-import openai
-import pandas as pd
-import re
-import pprint
-import json
-import os
-from dotenv import load_dotenv
-#open_ai_apiキーを取得
-load_dotenv()  # .envファイルを読み込む
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
 ####################################################################
 """""""①データ抽出"""""""""
 ######APIデータ抽出#########
@@ -56,15 +60,35 @@ available_apis, available_apis_name = api_data_getter.get_available_apis()
 # カテゴリ一覧取得
 available_categories = api_data_getter.get_available_categories()
 
+
+def filter_mashup(data, start_key=None):
+    if start_key is None:
+        return data  # 全体を返す
+
+    keys = list(data.keys())
+    if start_key in keys:
+        start_index = keys.index(start_key)
+        filtered_keys = keys[start_index:]
+        return {k: data[k] for k in filtered_keys}
+    else:
+        return {}  # 指定キーが見つからなかった場合は空辞書
+
 ######mashupデータ抽出#########
 from get_information import GetAvailableMashupData
 # JSONファイルパスを渡してインスタンス作成
 mashup_data_getter = GetAvailableMashupData(mashup_data)
 # 複合サービスの詳細情報を取得
 available_mashup = mashup_data_getter.get_mashup_details()
+
+available_mashup = filter_mashup(available_mashup, start_key)
 ########################################################################
 """""""②プロンプト呼び出し"""""""""
-from prompt.prompt_openai import MashupServiceRecommendation_openai
+# モデル名から使用クラスを判定してインポート
+if "gpt" in model.lower():
+    from prompt.prompt_openai import MashupServiceRecommendation_openai as MashupServiceRecommendation
+else:
+    from prompt.prompt_open_llm import MashupServiceRecommendation_open_llm as MashupServiceRecommendation
+
 ########################################################################
 
 #JsonファイルにGPTの出力結果を保存
@@ -75,19 +99,41 @@ def save_to_json(data, prompt_method_name, mashup_name):
     :param prompt_method_name: 保存先ファイル名（変数として渡される）
     :param mashup_name: キーとして使用する名前
     """
+
+
     # メソッド名 → ファイル名のマッピング
     filename_map = {
-        "few_shot_cot_with_inference_process": "few_cot_infer",
-        "few_shot_cot": "few_cot",
+        "zero_shot":"zero_shot",
         "zero_shot_cot": "zero_cot",
         "zero_shot_cot_with_inference_process": "zero_cot_infer",
+        "few_shot":"few_shot",
+        "few_shot_ablation":"few_shot_ablation",
+        "few_shot_cot": "few_cot",
+        "few_shot_cot_with_inference_process": "few_cot_infer",
+        "plan_and_solve":"plan_and_solve"
         # 必要に応じて他も追加可能
     }
+    # モデル名を短縮名に変換
+    def extract_model_name(model_str):
+        if "deepseek" in model_str.lower():
+            return "deepseek"
+        elif "llama" in model_str.lower():
+            return "llama"
+        elif "gemma" in model_str.lower():
+            return "gemma"
+        elif "gpt" in model_str.lower():
+            return "gpt"
+        else:
+            return "other"
+    #モデル名を変換
+    model_name = extract_model_name(model)
+
     # 変換されたファイル名（短縮名がなければそのまま使う）
     short_name = filename_map.get(prompt_method_name, prompt_method_name)
     
     # ファイル名の生成
-    filename = f"./output/openai/{short_name}/responses.json"
+    filename = f"./output/{model_name}/{short_name}/responses.json"
+    print(filename)
 
     try:
         # ファイルが存在する場合、既存の内容を読み取る
@@ -137,7 +183,7 @@ for mashup_name, details in available_mashup.items():
     description = details.get('description', "")
 
     #推薦システムの初期設定
-    recommendation_system = MashupServiceRecommendation_openai(few_shot_examples, available_categories, available_apis, description)
+    recommendation_system = MashupServiceRecommendation(few_shot_examples, available_categories, available_apis, description)
     print("-" * 30)
     print("評価中のサービス:",mashup_name)
 
@@ -151,8 +197,9 @@ for mashup_name, details in available_mashup.items():
         call_count += 1
         print(f"Iteration {i+1}, Total call: {call_count}")
         response = recommendation_system.choice_prompt(prompt_method_name, model)
+        
+        print(response)
         save_to_json(response, prompt_method_name, mashup_name)
 
     if stop_flag:
         break
-
