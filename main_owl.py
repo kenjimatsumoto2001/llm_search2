@@ -29,12 +29,12 @@ model = "deepseek-r1:70b"
 # prompt_method_name = "few_shot_cot_with_inference_process"
 # prompt_method_name = "few_shot"
 # prompt_method_name = "few_shot_ablation"
-prompt_method_name ="plan_and_solve"
-# prompt_method_name = "zero_shot_cot"
+# prompt_method_name ="plan_and_solve"
+prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "zero_shot_cot_with_inference_process"
 # prompt_method_name ="zero_shot"
 """""""⑤使用GPU指定"""""""""
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 """""""⑥評価サービスの選定"""""""""
 #全てのサービスを評価時
 start_key= None
@@ -88,7 +88,7 @@ available_mashup = filter_mashup(available_mashup, start_key)
 if "gpt" in model.lower():
     from prompt.prompt_openai import MashupServiceRecommendation_openai as MashupServiceRecommendation
 else:
-    from prompt.prompt_open_llm import MashupServiceRecommendation_open_llm as MashupServiceRecommendation
+    from prompt.prompt_open_llm_owl import MashupServiceRecommendation_open_llm as MashupServiceRecommendation
 
 ########################################################################
 

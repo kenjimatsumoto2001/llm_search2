@@ -3,18 +3,13 @@
 #few_shot_cot(事例)
 #zero_shot_cot_with_inference_process(推論プロセス)
 #few_shot_cot_with_inference_process(事例+推論プロセス)
-
-from ollama import Client
+import ollama
 class MashupServiceRecommendation_open_llm:
     def __init__(self, few_shot_examples, available_categories, available_apis, service_requirements):
         self.few_shot_examples =few_shot_examples
         self.available_categories = available_categories
         self.available_apis = available_apis
         self.service_requirements = service_requirements
-        self.client = Client(
-            host='http://localhost:11434',
-            headers={'Content-Type': 'application/json'}
-        )
     
     
     def plan_and_solve(self):
@@ -496,12 +491,14 @@ class MashupServiceRecommendation_open_llm:
             raise ValueError(f"Method {prompt_method_name} not found")
 
         messages = prompt_method()
-        
+
         try:
-            response = self.client.chat(model=model, messages=messages,options={
-                "temperature": 0
-            })
-            return response.message.content
+            response = ollama.chat(
+                model=model,
+                messages=messages,
+                options={"temperature": 0}
+            )
+            return response['message']['content']
         except Exception as e:
             print(f"エラーが発生しました: {e}")
             return None
