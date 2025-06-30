@@ -26,9 +26,9 @@ mashup_data = './data/filtered_mashup_data.json'
 model = "gpt-4.1-mini"
 """""""④プロンプト選択"""""""""
 # prompt_method_name = "few_shot_cot"
-prompt_method_name = "few_shot_cot_with_inference_process"
+# prompt_method_name = "few_shot_cot_with_inference_process"
 # prompt_method_name = "few_shot"
-# prompt_method_name = "few_shot_ablation"
+prompt_method_name = "few_shot_ablation"
 # prompt_method_name ="plan_and_solve"
 # prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "zero_shot_cot_with_inference_process"
@@ -37,7 +37,7 @@ prompt_method_name = "few_shot_cot_with_inference_process"
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 """""""⑥評価サービスの選定"""""""""
 #特定の以降サービスのみ評価時(サービス名を指定)
-# start_key='goodneighbor'
+# start_key='sport-map'
 #全てのサービスを評価時
 start_key= None
 """""""⑦要件文ごとの評価回数・llm呼び出し上限"""""""""
