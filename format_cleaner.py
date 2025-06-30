@@ -88,7 +88,7 @@ Therefore, The answer is
 """
     
 
-    elif prompt_method_name in ["zero_shot_cot_with_inference_proces"]:
+    elif prompt_method_name in ["zero_shot_cot_with_inference_process"]:
         return f"""
 ---
 {text}
@@ -100,7 +100,7 @@ Therefore, The answer is
 """
     
 
-    elif prompt_method_name == "plan_and_solve":
+    elif prompt_method_name in ["plan_and_solve"]:
         return f"""
 ---
 {text}
@@ -109,6 +109,37 @@ Therefore, The answer is
     Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
     Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
     Final recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+    elif prompt_method_name in ["few_shot_ablation"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
+    Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
+    Final recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+    elif prompt_method_name in ["few_shot"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories: ['Category_name', 'Category_name', ...]\n
+    recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+    elif prompt_method_name in ["zero_shot"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories: ['Category_name', 'Category_name', ...]\n
+    recommended APIs: ['API_name', 'API_name', ...]\n
 """
 
 ###################### LLMで整形 ####################### 

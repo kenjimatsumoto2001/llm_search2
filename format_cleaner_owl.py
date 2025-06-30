@@ -4,25 +4,33 @@ import json
 import ollama
 import os
 """""""③整形したいllmモデル選択"""""""""
-input_model = "deepseek-r1:70b"
+# input_model = "deepseek-r1:70b"
 # input_model = "llama3:latest"
-#input_model = "gemma3:27b"
+input_model = "gpt-4.1-mini"
 """""""②整形したいプロンプト選択"""""""""
-prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "few_shot_cot"
-#prompt_method_name = "zero_shot_cot_with_inference_process"
 # prompt_method_name = "few_shot_cot_with_inference_process"
-# prompt_method_name ="plan_and_solve"
+# prompt_method_name = "few_shot"
+# prompt_method_name = "few_shot_ablation"
+prompt_method_name ="plan_and_solve"
+# prompt_method_name = "zero_shot_cot"
+# prompt_method_name = "zero_shot_cot_with_inference_process"
+# prompt_method_name ="zero_shot"
 """""""③使用したいGPU"""""""""
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-
+"""""""③開始したいキー名に変更"""""""""
+start_key = "your_start_key_here" 
+start_key = None 
 ########################################################################
 # メソッド名 → ファイル名のマッピング
 filename_map = {
-    "few_shot_cot_with_inference_process": "few_cot_infer",
-    "few_shot_cot": "few_cot",
+    "zero_shot":"zero_shot",
     "zero_shot_cot": "zero_cot",
     "zero_shot_cot_with_inference_process": "zero_cot_infer",
+    "few_shot":"few_shot",
+    "few_shot_ablation":"few_shot_ablation",
+    "few_shot_cot": "few_cot",
+    "few_shot_cot_with_inference_process": "few_cot_infer",
     "plan_and_solve":"plan_and_solve"
     # 必要に応じて他も追加可能
 }
@@ -34,6 +42,8 @@ def extract_model_name(model_str):
         return "llama"
     elif "gemma" in model_str.lower():
         return "gemma"
+    elif "gpt" in model_str.lower():
+        return "gpt"
     else:
         return "other"
 #モデル名を変換
@@ -92,7 +102,7 @@ Therefore, The answer is
 """
     
 
-    elif prompt_method_name == "plan_and_solve":
+    elif prompt_method_name in ["plan_and_solve"]:
         return f"""
 ---
 {text}
@@ -102,6 +112,38 @@ Therefore, The answer is
     Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
     Final recommended APIs: ['API_name', 'API_name', ...]\n
 """
+    
+    elif prompt_method_name in ["few_shot_ablation"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories from 2.: ['Category_name', 'Category_name', ...]\n
+    Recommend All matched APIs in 3.: ['API_name', 'API_name', ...]\n
+    Final recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+    elif prompt_method_name in ["few_shot"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories: ['Category_name', 'Category_name', ...]\n
+    recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
+    elif prompt_method_name in ["zero_shot"]:
+        return f"""
+---
+{text}
+---
+Therefore, The answer is
+    Recommend categories: ['Category_name', 'Category_name', ...]\n
+    recommended APIs: ['API_name', 'API_name', ...]\n
+"""
+    
 
 ###################### LLMで整形 ####################### 
 def format_text_with_model(text: str, prompt_method_name: str) -> str:
@@ -119,7 +161,7 @@ def format_text_with_model(text: str, prompt_method_name: str) -> str:
 
 ###################### 逐次処理本体 ####################### 
 
-def process_json_file_incremental(input_file: str, output_file: str, prompt_method_name: str):
+def process_json_file_incremental(input_file: str, output_file: str, prompt_method_name: str, start_from_key: str = None):
     # 入力ファイル読み込み
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -131,7 +173,15 @@ def process_json_file_incremental(input_file: str, output_file: str, prompt_meth
     else:
         formatted_data = {}
 
+    start_processing = start_from_key is None  # 指定がなければ最初から処理
     for i, (service_name, content) in enumerate(data.items(), start=1):
+        if not start_processing:
+            if service_name == start_from_key:
+                start_processing = True
+            else:
+                print(f"{i}件目 スキップ中（開始キー前）: {service_name}")
+                continue
+
         if service_name in formatted_data:
             print(f"{i}件目 スキップ済: {service_name}")
             continue
@@ -150,9 +200,11 @@ def process_json_file_incremental(input_file: str, output_file: str, prompt_meth
 
     print(f"整形完了: {output_file} に保存しました")
 
+
 if __name__ == "__main__":
     input_path = f"./output/{input_model_name}/{short_name}/responses.json"
     output_path = f"./output/{input_model_name}/{short_name}/responses_formatted.json"
+
     print("整形するファイルパス", input_path)
     print("###########################################################")
-    process_json_file_incremental(input_path, output_path, prompt_method_name)
+    process_json_file_incremental(input_path, output_path, prompt_method_name, start_key)
