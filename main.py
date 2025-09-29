@@ -21,23 +21,24 @@ mashup_data = './data/filtered_mashup_data.json'
 #複合サービスの内、完全データ and api数が1も含む
 "#未実装#(フィルタしていない為)"
 """""""③llmモデル選択"""""""""
-# model = "deepseek-r1:70b"
+model = "deepseek-r1:70b"
 # model = "llama3.3:latest"
-model = "gpt-4.1-mini"
+# model = "gpt-4.1-mini"
+# model = "deepseek-r1:32b"
 """""""④プロンプト選択"""""""""
-# prompt_method_name = "few_shot_cot"
+prompt_method_name = "few_shot_cot"
 # prompt_method_name = "few_shot_cot_with_inference_process"
 # prompt_method_name = "few_shot"
-prompt_method_name = "few_shot_ablation"
+# prompt_method_name = "few_shot_ablation"
 # prompt_method_name ="plan_and_solve"
 # prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "zero_shot_cot_with_inference_process"
 # prompt_method_name ="zero_shot"
 """""""⑤使用GPU指定"""""""""
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 """""""⑥評価サービスの選定"""""""""
 #特定の以降サービスのみ評価時(サービス名を指定)
-# start_key='sport-map'
+# start_key='moviegram'
 #全てのサービスを評価時
 start_key= None
 """""""⑦要件文ごとの評価回数・llm呼び出し上限"""""""""

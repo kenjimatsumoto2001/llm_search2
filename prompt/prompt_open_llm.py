@@ -459,8 +459,8 @@ class MashupServiceRecommendation_open_llm:
                     "then to the proposed API categories, and finally to the selected and recommended APIs.\n"
                     "It follows the reasoning process below:\n"
                     "1. Infer the core functionalities of the mashup service based on the given Requirements.\n"
-                    "2. Identify and propose relevant API categories from the available categories.\n"
-                    "3. Match APIs from each category based on descriptions and requirement alignment.\n"
+                    "2. Identify and propose relevant API categories from the available categories based on the core functionalities and available apis.\n"
+                    "3. Match APIs from each category based on descriptions and requirement.\n"
                     "4. Select and recommend the best-suited APIs with reasons.\n"
                 )
             }

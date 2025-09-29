@@ -1,0 +1,7487 @@
+{
+  "slidemypics": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "best-malta-hotels": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.8
+  },
+  "scupal": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "snoopf": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.2
+  },
+  "speedyitunes-planet": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.667
+  },
+  "tweetypants": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "austin-property-search": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "my-powers-out": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "moveboxer": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.667
+  },
+  "myetsybook.com": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.462,
+    "api_final_f1": 0.75
+  },
+  "demo-bookstore-amazon-advertising-api": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "connected-to-us": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.5
+  },
+  "scanthenet": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "izik": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mesh": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.105,
+    "api_final_f1": 0
+  },
+  "flickr-slideshow-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "youtube-earth-album": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "spokenbuzz-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 1.0
+  },
+  "springbaud-raisers-edge": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "readit.me": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.8
+  },
+  "hoiio-wave": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "geopix-0": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0.4
+  },
+  "yaptap": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "mapanno": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "upczilla": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "tourcms-facebook-tabs": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.5
+  },
+  "visit-mauritius": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.667
+  },
+  "ridedog": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "pushr": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 1.0
+  },
+  "docusign-and-twilio": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "gool.li": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.05,
+    "api_final_f1": 0.182
+  },
+  "filtrand": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "symbyoz": {
+    "category_f1": 0.222,
+    "api_intermediate_f1": 0.429,
+    "api_final_f1": 0.462
+  },
+  "flickoutr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "trip-republic": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.2
+  },
+  "homewebshop": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "price-drop-you-save": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "eventsites": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 1.0
+  },
+  "tweets-abound": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.333
+  },
+  "starterpad": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "intellinote-zapier": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "landmarkr": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.091,
+    "api_final_f1": 0.4
+  },
+  "caddiehub": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.333
+  },
+  "memolane": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "cosmos-and-culture": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "flitter": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "rental-source": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mashedin": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "1dollarthings.com": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "twitv": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "saveyourcall": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mosoto": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "tweeturmusic": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "google-analytics-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "surf-kultura": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "e-hotelbase.com": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "worlds-fastest-elevators": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "weather-web-app": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "raddio.tk": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "careersix": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "jobs-assistant": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "trivop.com": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "instascriber": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "clismap": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0.4
+  },
+  "myshopping-facebook": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0
+  },
+  "mailmaps-email-marketing": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "map-your-list-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 1.0
+  },
+  "places-near-me": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mod9.tv": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.667
+  },
+  "quickresu.me": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "usa-name-data-bigquery-public-dataset": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "jacktracker-24": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "keeptherecord": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0.5
+  },
+  "groupme": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.571
+  },
+  "funny-vines-thebestvines.tv": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "everygain-translator": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0
+  },
+  "flexijourney-travel": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.19,
+    "api_final_f1": 0.444
+  },
+  "twitter-trending-local-restaurants": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "darwin-bus-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.4
+  },
+  "vodafone-update-app-android": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "bleacherweather": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.4
+  },
+  "asesor": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.667
+  },
+  "gengo-youtube-translation": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapiprop": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "pixurl-social-search": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.087,
+    "api_final_f1": 0.25
+  },
+  "mood-tweet": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "read-all-about-it": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.5
+  },
+  "what-are-haps": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0
+  },
+  "eyouin-notifications": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.333
+  },
+  "geowake": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "29-travels": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "it-cookie-time": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.062,
+    "api_final_f1": 0
+  },
+  "locafollow": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "iran-election-protests-youtube-videos": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 1.0
+  },
+  "moviis": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.429,
+    "api_final_f1": 0.571
+  },
+  "mapseeing.com": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "jobs-search-and-salary-research": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "new-7-wonders-world": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "food-twitter": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "codexmap": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.105,
+    "api_final_f1": 0.333
+  },
+  "geckogo": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "pixtaplace": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "healthy-lemur": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "klezio": {
+    "category_f1": 0.727,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "belizemapia": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.333
+  },
+  "japan-talent-data-box": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mapping-events": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "padmapper": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "inauguration-scrapbook": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.5
+  },
+  "flowd": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 0.4
+  },
+  "mapattack": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "ifttt": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "highest-hits-videos": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "friendlynx": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "popify": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0.25
+  },
+  "sightsmap": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "tagsinaction": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "music-artist-cloud-app": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "twitter-mood-reader": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "facebook-funny-jokes": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "qabic": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "monuments-diversity-democracy-and-freedom": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "webtomap-news-videos-and-photos-map": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.2
+  },
+  "yappoint": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "renttoownquest": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "webaloud": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "molamp": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "imaginalaxy": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "find-car": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "rentmix": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "africa-tourism-information-portal": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "bible-mapped": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "moment": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "birthdaygram": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 0.444
+  },
+  "motube": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.5
+  },
+  "outalot": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "your-own-music-television": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "inflooenz": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.4
+  },
+  "taxi-fare-calculator-greece": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "textorder.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "search-and-map-jobs": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.8
+  },
+  "twitter-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "photo-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "zyp": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.222
+  },
+  "world-nirvana": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.8
+  },
+  "quickfuse-google-maps-mashup": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "fitdatasync": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "lookupisbn.com": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "globaround": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "ergotxt": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.667
+  },
+  "bills-news": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twitter-design-generator-bookmarklet": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "tweetervision": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 1.0
+  },
+  "primocast": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.5
+  },
+  "localiz.me": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "smslord": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 1.0
+  },
+  "cuteon.me": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "mapmyfriends-facebook-app": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "houseincity": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "gifanator": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "murali-basa-blog": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.286
+  },
+  "tennismaps": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "enomalism-elastic-computing": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "wikipedia-mobile": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.667
+  },
+  "ilocy": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "china-weather-forecast": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "fone-findr": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0
+  },
+  "e.p.-carrillo": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "nexmo-mailchimp-mashup": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "starbucks-digital-network": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "science-stack": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "coast-rack": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "kakao2-weather-map": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "nearplace": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.444
+  },
+  "2lingual-bing-search": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "geosay-super-local-information": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "beer-textbooks": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "wifipdx": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "biodiversity-taxonomic-catalogue": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "blizzalert-0": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.8
+  },
+  "tweaker-tweet-speaker": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "music-spider": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "share-location-twitter": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.667
+  },
+  "geopix-fractal-view": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.286
+  },
+  "music-favmap": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "elseif": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "kiva-world-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapmynearest": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "icommunity.tv": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.286
+  },
+  "initt": {
+    "category_f1": 0.308,
+    "api_intermediate_f1": 0.133,
+    "api_final_f1": 0.143
+  },
+  "knowledgetree-live": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "youtube-video-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "escnostalgia": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "tv.listandplay.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "acid-reflux-information-site": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.2
+  },
+  "umapitup": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "fedex-office-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "sms-team": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.5
+  },
+  "twitter-spy": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "datantify": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "feedly-android": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.667
+  },
+  "fb-time-machine": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "geowalk": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "geoslideshow": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "battlecell": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "explorer": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "thrutu-button-collection": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "virtual-classroom-api-integration": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "plugthe.net": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.077,
+    "api_final_f1": 0.182
+  },
+  "second-thought": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "bluehire": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.286
+  },
+  "pengerio": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "voicebuzz": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "textmob": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.8
+  },
+  "twitter-trends": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.8
+  },
+  "vthumbs": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mymaps.dk": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "cheap-flights-to": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "zipments": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ipaper-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "blizzalert": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.286
+  },
+  "zoob-tube": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "myflickrtool": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "zip-mashup": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "find-best-three": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.857
+  },
+  "caption.me": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "soundeer": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "docs-pound-docs": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.5
+  },
+  "savemyinbox": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "allofcraigs": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "twil-tweet": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "frtr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "watch2gether.com": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.727
+  },
+  "kukunu": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "us-virtual-neighborhood": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "awayfind": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "music-artist-cloud-1": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "guido": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "google-earth-book-tour": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "church-management-software": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "globebop": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "near-here-map-bing-maps": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "gpsies.com": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.222
+  },
+  "aussie-pubcrawl": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "geognos": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "wishgenies": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "picompit": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.5
+  },
+  "twitter-fountain-second-life": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "belgian-rail-demo": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mixblast": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "toastbank": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.4
+  },
+  "voziq-actionable-social-media-analytics": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "cheap-flights-to-0": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "amee-location-footprinter": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "japan-earthquake-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.333
+  },
+  "normalisr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "txt-beer": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "screamradius": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "hashparty": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "hello-world": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "wines-and-times": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "jamzee": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "search-and-map-wiki": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0
+  },
+  "mapyou": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "all-information-network": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "wifi-and-plugs-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "airporthotels": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "expressi": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "invoicing-time-entries-mite-billomat": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "videojournal.me": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "dynamic-insights": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.343,
+    "api_final_f1": 0.25
+  },
+  "instrument-wire": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "unofficial-tupalo-widget": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "beanatomics-traffic": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "booli.se": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "my-twitter-thrutu": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.5
+  },
+  "san-diego-school-pal": {
+    "category_f1": 0.0,
+    "api_intermediate_f1": 0.0,
+    "api_final_f1": 0.0
+  },
+  "imaneed.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 1.0
+  },
+  "freshbooks-notifier": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "headlinemap": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "swoopthat": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0.143
+  },
+  "groupbuydaily": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.286
+  },
+  "gadgetsearch.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "gootube": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "meetbymaps": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "gmail-and-box.net": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "twitdiff": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.4
+  },
+  "haiku": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "polldaddy": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "uk-rail-passenger-tweet-mashup": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 1.0
+  },
+  "bills-news-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "sport-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "accenttraining.net": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "hivaids-prevention-service-provider-locator": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "pinkbigmac": {
+    "category_f1": 0.154,
+    "api_intermediate_f1": 0.087,
+    "api_final_f1": 0.133
+  },
+  "textlang": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.667
+  },
+  "picasa-map-gadget": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "geocam": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "svb-mapper": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "soho-rintaro": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "california-environment-report-cleanup-sites-and-permitted-facilities": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "listnplay": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "healthmap": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.571
+  },
+  "football-feed": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "dfwdines-dfw-restaurant-week-guide": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "geo-wiki-search": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "lastface": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "boyfriend-x": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0
+  },
+  "mileage-calculator": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "voicecal": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "scovry": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "human-pets": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.143
+  },
+  "gmap-friends": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "unemployed-america": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "umusic": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0
+  },
+  "jabber-google-map": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "worth-web": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "last.fm-top-tracks-chart-generator": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "sakmap": {
+    "category_f1": 0.6,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "enthusem-and-box.net": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "contextwit": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "stweet": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.4
+  },
+  "cloud-last.fm": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "seo-audit-tool": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "coast-radar": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "esync-dashboard": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "earnlearn-web": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "googawho-side-side-search": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "mylocaltribune": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "vmap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.462,
+    "api_final_f1": 0.8
+  },
+  "offertrack": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.25
+  },
+  "blogloc": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "snapcasa-and-delicious-mashup": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "twilleetio": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "fotofuze": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "nba-above": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.667
+  },
+  "team-extreme-nba-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "call-safely": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.8
+  },
+  "gramfeed": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "itduzzit": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 1.0
+  },
+  "psykoo": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "teletka": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "packagemapping.com": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.727,
+    "api_final_f1": 0.727
+  },
+  "photo-map-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.5
+  },
+  "kulisha": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "rendezvousspot.com": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "gregs-alerts": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.286
+  },
+  "swine-flu-outbreak-dashboard": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "elementary-mail": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "jiffy-lyrics": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "combotweet": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "episkeptis": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "ctyitube": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "breadcrumbs-gps-track-management": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.727,
+    "api_final_f1": 0.727
+  },
+  "buylater-beta": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "order-anywhere-beta": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.8
+  },
+  "social-interest": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "are-my-sites-white-label": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.8
+  },
+  "keenurban": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "readermeter": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "yaktrak": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "trends24": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "twittervision": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "actionzap": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.2
+  },
+  "mapified-rss": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "twyric": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "twitternano": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "relax": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "greener-pastures": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.105,
+    "api_final_f1": 0
+  },
+  "mars-explorer": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "chatwing": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "music-followers": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "zillow-iphone-app": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.5
+  },
+  "caribbean-resorts-mashup": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "levelup-pebble": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "tubehotels.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "sales-tracker": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 1.0
+  },
+  "whtvrme": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.105,
+    "api_final_f1": 0.333
+  },
+  "mashplanet": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "life2life-virtual-shopping": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mobile-time-tracking": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "randolunch": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "passione-non-profit": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0
+  },
+  "foursquare-check-deals": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.333
+  },
+  "impact": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.667
+  },
+  "help-classroom-need-bing-maps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "cinefreaks": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "vitaminsmatch": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.667
+  },
+  "refynr-social-dashboard-twiliocon-2012": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "4sqoogle": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "locago": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "austin-city-limits-music-festival-radio": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "travel-world-0": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "where-path": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "valuezilla-shopping-service": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.444
+  },
+  "in2clouds-social-listener": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.25
+  },
+  "sales-line-bot": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "break-ice-me": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "english-lake-district": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "moredeets": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "books-most-wanted-bookmooch": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "busalert.me": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "how-to-pronounce-words-pronunciaci%C3%A3%C2%B3n-en-ingl%C3%A3%C2%A9s-pronuncia-inglese...": {
+    "category_f1": 0.2,
+    "api_intermediate_f1": 0.087,
+    "api_final_f1": 0.25
+  },
+  "voice-comments-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "espocrm-0": {
+    "category_f1": 0.0,
+    "api_intermediate_f1": 0.0,
+    "api_final_f1": 0.0
+  },
+  "imapflickr.com-embeddable-google-map-and-flickr-mashups": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twitters-google-maps": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "dr.-nescio": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.286
+  },
+  "getparking": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "utrecht-music-video-search": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "moonshadow-mobile-inc.": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "vamos-al-shopping": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "emailambush": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "nitefly-future-nightlife": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.25
+  },
+  "enterprisingly": {
+    "category_f1": 0.143,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "after-hours-doctors-office": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "meet-me-thrutu": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "dear-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0
+  },
+  "google-maps-api-v3-tool": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "proximity-checkin": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mydatabus": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "kolay-%C3%A4%C2%B0ngilizce-oku": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0
+  },
+  "world-cup-soccer-latest-geotagged-youtube-videos": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "hotel-comparison-widget": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "tweedly-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "smugmaps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "jammap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "ivy-fm-discover-new-music-every-day": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.5
+  },
+  "newsonmap.": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "garage-sale-application": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "dog-parks-usa": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "stunningapps.net": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mi-world": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "cloud-elements-messaging-hub": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "sowetouprisings-.com": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "campusmarenostrum": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.615,
+    "api_final_f1": 0.667
+  },
+  "ford-fiesta-movement-mapped": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "street-art-map": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "embedplus-chrome-browser-extension-youtube": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.615,
+    "api_final_f1": 0.727
+  },
+  "groupcall": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 1.0
+  },
+  "twippr-twitter-payments": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "facebook-friend-plotter": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.133,
+    "api_final_f1": 0.5
+  },
+  "connected": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.308
+  },
+  "holidayen": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "storeslider-deutschland": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "appites": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mattfind.com": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "allsongsby": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "facebook-friends-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "things-to-do-near-aviemore-cairngorms-national-park": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "musikki": {
+    "category_f1": 0.6,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "nprbackstory": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "dodydo": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "dvdcrate.com": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "sportmeets": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.182
+  },
+  "dubtune": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "howdy": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "svd-weather": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "watchable": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "lyricsgaps.com": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.222
+  },
+  "musicrambler": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 0.667
+  },
+  "html-instant-real-time-html-editor-and-search-engine": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "court-reporting-services": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "nightfeed": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "fotosces": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "loqly": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.571
+  },
+  "tagfrisk": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "bookbargain": {
+    "category_f1": 0.222,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "historic-places-north-america": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "instant-map-search": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.571
+  },
+  "ukbirdcount": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.4
+  },
+  "tweency": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "ask4stuff-worldcat-twitter-search": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "zoos-world": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.667
+  },
+  "emory-law-events": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "productism": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "222acres.com": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.4
+  },
+  "beds-and-bedroom-news": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "vizlingo": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.4
+  },
+  "egypt-protest-tweets-mapped": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "barcelona-bicing-mashup-google-maps": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "google-contacts-integration-tradeshift-app": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "magic-mosaic": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.286
+  },
+  "friendly-audio": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "world-cup-soccer-tweets": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.5
+  },
+  "pick-your-perfect-pet": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "uk-beaches": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "docusign-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "npr-labs-mapping-and-population-system": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "contentbox": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "buylar": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.533,
+    "api_final_f1": 0.533
+  },
+  "peepgift": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.4
+  },
+  "tweet-street-view": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "time-machine": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "just-traceroute": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "nearby-tweets": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "connectme.cc": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.571
+  },
+  "geomium": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.2
+  },
+  "location-based-instagram-photos": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "gaiagi-driver-3d-driving-simulator": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "social-page-authority-checker": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.545,
+    "api_final_f1": 0.667
+  },
+  "platd": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.444
+  },
+  "mapinterest": {
+    "category_f1": 0.0,
+    "api_intermediate_f1": 0.0,
+    "api_final_f1": 0.0
+  },
+  "textslide": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.571
+  },
+  "enthusem-and-box.net-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "knowyourlake.com": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "comment-stack": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "news-share": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.4
+  },
+  "coindesk-guardian-news": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "floreant-pos-official-site": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "infinite-monkey-comics": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "music-mash": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "flickr-shapefiles-demo": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "newsworldmap": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "firmendb": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "votenight": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.286
+  },
+  "twilirious": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "spincloud": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "photo-feed-slideshow-wigdet": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.571
+  },
+  "moomazon": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.5
+  },
+  "trend-bed": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "earndit.com": {
+    "category_f1": 0.364,
+    "api_intermediate_f1": 0.174,
+    "api_final_f1": 0.2
+  },
+  "muzkmesh": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.889,
+    "api_final_f1": 0.889
+  },
+  "sayit": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 1.0
+  },
+  "open-data-companion-odc": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.167
+  },
+  "photomunchrs": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.667
+  },
+  "unsung-heroes-random-english-premier-league-player-videos": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "photos-life": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "patrick-obrian-mapping-project": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "webklang-instant-harmony": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "weogeo": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.105,
+    "api_final_f1": 0
+  },
+  "cloud-player": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "s42at": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.286
+  },
+  "sendmusic2.me": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "website-authority-checker": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "call-my-wall": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.5
+  },
+  "quizlio": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "dldisco": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 1.0
+  },
+  "localerts": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "spreadsheet-fund": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "api-expert-google-place-search": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "your-automated-china-investment-advisor": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "daylogs": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "map-dead": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "nouzil.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "scaleo": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "eldercare-locator-phone-or-text-sms": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.8
+  },
+  "twitpickr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "evmapper": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.8
+  },
+  "deki-wiki-twitter-extension": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "sms-to-email-gateway": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "goodneighbor": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.5
+  },
+  "sendshorty": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "maps-smartphone": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.25
+  },
+  "real-indoor": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "create-custom-api-siri-using-sendgrids-parse-api": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "estate-agent-locator": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "guia-postos": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "bookfinder": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "travelmapia": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "tripsq": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "artist-cloud-igoogle-gadget": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "pingram": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "amazon.com-gadget": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "fitstar": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "followfly": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.727,
+    "api_final_f1": 0.727
+  },
+  "devhub": {
+    "category_f1": 0.2,
+    "api_intermediate_f1": 0.054,
+    "api_final_f1": 0.167
+  },
+  "bottlr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 1.0
+  },
+  "benzel-busch": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.8
+  },
+  "embedplus": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "houseside": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "taggedback": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.667
+  },
+  "bingagain": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "rivers-world": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "profile-feeder": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "virtual-tour-berlin": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "marketplace-workspaces": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "backup-box": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tapguest": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "our-louvre": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.667
+  },
+  "songvoodoo": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.8
+  },
+  "magical-mother-effin-8-ball": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "snapblast": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.667
+  },
+  "tag-fight": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 1.0
+  },
+  "flickrmania": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "trendsrus-twitter-global-trends-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.8
+  },
+  "rijksmonumenten.nl": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "relocator": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "dinero.no": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "radaar": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "listmaniacc": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tweekly.fm": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "bookmaplet": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "spific-search": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "metro-mapper": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "pictarine": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "lastvid.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mymeetingtime.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "sush.io": {
+    "category_f1": 0.222,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0.143
+  },
+  "rebate-bus": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "mapped-big-wheel-race": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapcancer.org": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "storet-watershed-summary": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "packmapr": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.889,
+    "api_final_f1": 0.889
+  },
+  "mapt-q": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.5
+  },
+  "wineries-napa-valley": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "dailymotoride": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "candid": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0
+  },
+  "tupalo": {
+    "category_f1": 0.308,
+    "api_intermediate_f1": 0.133,
+    "api_final_f1": 0.143
+  },
+  "surfdworld": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "realwebstats": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.25
+  },
+  "bookflavor": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "geo-messages": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "ministry-ops": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.364
+  },
+  "cloud-elements-documents-hub": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 1.0
+  },
+  "myelectorate-australia": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.571
+  },
+  "guidetourin": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.091,
+    "api_final_f1": 0
+  },
+  "sporepedia-gadgets": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "rent-compass-facebook-app": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "peerit": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "weather-text-machine-jforaker": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "weathermole": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "iguide": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "yplaces": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.5
+  },
+  "similags": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "shopvolvoordeel.nl": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "fakegirlfriend": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.571
+  },
+  "tyke-sms-web-sms-gateway-and-more": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "printo.jp": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0.118
+  },
+  "info-balloon": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.545,
+    "api_final_f1": 0.4
+  },
+  "northumberland-fold": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "misotrendy": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "trees-world": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "tweetbrite": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "customsync-education-edge": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "allogarage": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "voice-maps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.133,
+    "api_final_f1": 0.5
+  },
+  "onnli.com-job-search-and-realtime-job-listing": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "sparkstorm": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "esignature-gateway": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.769,
+    "api_final_f1": 0.727
+  },
+  "twitqa": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "ebooksdoc.com": {
+    "category_f1": 0.222,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.286
+  },
+  "dgmapper-disc-golf-tournament-map-and-calendar": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "marrily": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "afrous-mashup-builder": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.182
+  },
+  "visitor-map-gadget-igoogle-gadget-to-track-your-website-or-blog": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "instame": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "voice-apps": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.6
+  },
+  "lixam-search-engine": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.25
+  },
+  "worldflicks": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "geo-best-youtube": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "dear-emmy": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.5
+  },
+  "fonefindr": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0
+  },
+  "bbc-browser": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "findhorsesforsale.net": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.167
+  },
+  "pixaquote": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "onesource-online-mall": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0
+  },
+  "lunchbox": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "geograph-photos": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "tarpipe-evernote": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "web-startup-toolbar": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.6
+  },
+  "blockwild-facebook-map-application": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "deployplace": {
+    "category_f1": 0.364,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.25
+  },
+  "usersthink": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "explore-census": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "influence-tracker-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "nedict-feed-maps": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "croctail-corporate-watch": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "planning-petitions-under-review": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "dormitem-free-college-classifieds": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "fastcashier-wallet": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0
+  },
+  "fitsquare": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.5
+  },
+  "nascar-google-map": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "repository66": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "diffmon": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.8
+  },
+  "ny-times-flickr": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "tweets-your-way": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "g-downloader": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "world-port-source": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "giddi": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "context.iohighrise-integration": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "quickblox-mapchat-widget": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "mobypicture": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "json-api-app": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "connecticity": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "slopescience": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "whats-tv": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.667
+  },
+  "wishalert.me": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "pizza-coupons": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "price-crisis": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "moodfm": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 0.8
+  },
+  "startup-warrior": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "seegest": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "second-life-weather": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "chext": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.8
+  },
+  "comhub": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "custom-igoogle-skins-v2": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "printout-designer-20": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.4
+  },
+  "attentionmeter": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "one-hit-wonders-google-maps": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "sky-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "map-my-followers": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "nostalgia": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ny-times-timesmachine": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "must-see-greece": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.75
+  },
+  "rock-climbing-mexico": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "square-anoia": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "flickr-slide-show": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "incentify.it": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0.4
+  },
+  "toeat.com": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "twitter-power-search": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "text-tree": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "l2-votermapping": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "onair-city-tracker": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "china-electronics-wholesale": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "foodsta": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "tspace": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.5
+  },
+  "dog-pedigrees-online": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "facetu.be": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "car-crime-accident-map": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "child-soldier-cycle-11": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "map-channels-dual-maps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "buzztap": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.8
+  },
+  "golbal-hotel-price-map": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "phonefriday": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "twopular-trend-tags-heat-map": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.4
+  },
+  "san-francisco-school-pot-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "gotime-iphone": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "social-map-california-colleges-universities": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "nicksmap": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "lasttube-last.fm-meets-youtube": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "kickdash": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.333
+  },
+  "finderface": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "influence-tracker": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "lampsquare": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "quintura": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "taxi-and-rideshare-services-country": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 0.857
+  },
+  "deki-wiki": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "linda": {
+    "category_f1": 0.364,
+    "api_intermediate_f1": 0.091,
+    "api_final_f1": 0.118
+  },
+  "noisywave": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "bicicarm": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "google-places-phone": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.5
+  },
+  "noms.": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "rightscale": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "freally": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "call-me-back": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0
+  },
+  "itrackmine.com": {
+    "category_f1": 0.222,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "conner-outdoors": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "hotels-copacabana-beach": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "ziprealty": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "dhl-tracking": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "local-bike-trader": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.571
+  },
+  "poll-position": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "worldfactorium": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "ihear-network": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "carpool-connect": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.4
+  },
+  "meteosun": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "vipli.st": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "okschool-explorer": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "alert-boss-instant-customer-feedback-solution": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.667
+  },
+  "earthplacemarks": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "nearish": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "reptiles-now": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "fedex-tracking": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ariane-6": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.222
+  },
+  "morces": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tallyspace": {
+    "category_f1": 0.167,
+    "api_intermediate_f1": 0.16,
+    "api_final_f1": 0.25
+  },
+  "dealsauce": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "doocu": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "kgi-wireless": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twiml-syntax-auto-complete-coda-plugin": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "map-deprivation-london": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 1.0
+  },
+  "my-camps-facebook-app": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "weoceo-amazon-s3-and-ec2": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "100-destinations": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "sportlogger": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "amazon-light": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.182
+  },
+  "flickr-dynamo": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "dj-acc": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "last.fm-music-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "view-docs-online": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.4
+  },
+  "reachoo-video-classifieds": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.571
+  },
+  "my-neighbourhoods-uk": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "burger-joints": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "voxora": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0
+  },
+  "where-what-when": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.5
+  },
+  "gatsby": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "www.americanwineryguide.com": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "bild.de-desktop": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "world-movie-search": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "company-directory": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "push-notify": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.286
+  },
+  "weather-sentiment-prediction": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "tables-ready": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 1.0
+  },
+  "hindi-songs-search": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.4
+  },
+  "moveable-history": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "beenhere.tv": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "football-viewer": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "ultima-7-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "geochirp": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "lifetweaker": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.222
+  },
+  "free-ebooks-search": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "nearbyjobs": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "facebook-sentiment-analysis-tool": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "formstack-mapping": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "distance-calculator-entfernung.org": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.182
+  },
+  "impact-dialing": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.667
+  },
+  "welcometoyourdata-wordpress-plugin": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "twenue": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 0.667
+  },
+  "buoy-alarm": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "usgolfers": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "rentuntilyouown.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "loku": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0
+  },
+  "blocks-and-lots": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "latest-michael-jackson-tweets": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "twitpic": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "ongmap": {
+    "category_f1": 0.429,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.211
+  },
+  "track-now-twitter": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0
+  },
+  "gocrowdless": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "college-and-university-search-state": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "uk-traveldata": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "scoopmap.net": {
+    "category_f1": 0.0,
+    "api_intermediate_f1": 0.0,
+    "api_final_f1": 0.0
+  },
+  "populrbuys": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "seesu": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.909,
+    "api_final_f1": 0.909
+  },
+  "mapmate": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0
+  },
+  "mapyourmp": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "bike-rides-california": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "quikmaps": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "airplane-booking-system": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "light-nixie-tubes": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "vacationic": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.222
+  },
+  "gps-tour": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "yukon-live": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.364
+  },
+  "holiday-cardr": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "gratefulapp": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "immoplaza": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "skaflash": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.154
+  },
+  "lastnews": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "your-zodiac-sign-health-and-yoga": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "tweettocall": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 1.0
+  },
+  "wolpy": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.095,
+    "api_final_f1": 0
+  },
+  "elasticlive-clustered-web-hosting": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "keep-jones": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.4
+  },
+  "avatar-portraits": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "travel-roamearth.com": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "food-tube": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "cilantro": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "wunderwalk": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.4
+  },
+  "giphy-and-twilio-text-gif": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "venmo": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.19,
+    "api_final_f1": 0
+  },
+  "vivirama": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "science-stack-select-and-search": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "moveable-weather": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "use-gift-card": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "newstaggr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "yosle-yardsales": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "local-twitter-trends": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "frugalmate": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "travel-world": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "adhysteria": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "tarpipe": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.2
+  },
+  "targetmap": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0.25
+  },
+  "socialbro": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "blogmap": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "shark-market": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "dogs-now": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "kiva-loan-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "arab-channel": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "snipper": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "belmonte-online": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "iphonerevu": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "map-deprivation-scotland": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "omg-rainbows": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "abouthisite": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "wikiorgcharts": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.1,
+    "api_final_f1": 0.222
+  },
+  "jukesy": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "dockmarket.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "i-am-here": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "pdfcast": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "glancely": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.667
+  },
+  "flickstr": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "weather-south-africa": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "junctionvox": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.667
+  },
+  "earbud-finder": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "saga-earth": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "home-and-garden": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.25
+  },
+  "soundtracking": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "current-weather": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "voice-slideshow-demo": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "plunker-editor": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "flyfishmap": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "guardian-trends": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "youtube-vision": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "geographic-book-reviews": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "nuclear-anxiety": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.4
+  },
+  "bbc-programmes-to-ical": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "invenbin-0": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.667
+  },
+  "koderank": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "weatherspark": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "tagzania": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "gulf-oil-spill-tweets-se-united-states": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.5
+  },
+  "world-speaks-about-obesity": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "geospeaker": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.057,
+    "api_final_f1": 0.286
+  },
+  "joomailer": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 1.0
+  },
+  "onair-bus-tracker": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.333
+  },
+  "view-satellite-imagery-full-browser-window": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.333
+  },
+  "sad-statements": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "home-furnishings-store": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "tiki-pik-image-link-preview": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "flyr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "text2residents": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 1.0
+  },
+  "instastrm-live-instagram-photo-stream": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "all-ibiza-one-google-map": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.333
+  },
+  "otnettv-media-streaming-app": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "whats-twitter": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "map-active.com-sporting-events-database": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.5
+  },
+  "placesdata.com": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "big-picture-small-world": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.4
+  },
+  "resumedroppr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "compare-maps": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "tumblr-youtube-mashup": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "i-do-voices": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "ning-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapmypage": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.2
+  },
+  "questglobe": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "tastebuds": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "florida-public-school-scores": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "howtodothings.com": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.25
+  },
+  "domlia": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.25
+  },
+  "youcheckins": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.8
+  },
+  "ipicfortune": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "party-gator": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.5
+  },
+  "people-lookup": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "mattermeter": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.095,
+    "api_final_f1": 0.2
+  },
+  "call-company": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0.4
+  },
+  "filmfinder": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.8
+  },
+  "online-basketball-camp": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.429,
+    "api_final_f1": 0.75
+  },
+  "obama-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.4
+  },
+  "novels-location": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "scoreinthebox": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "new-dance-tracks": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "photospots": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.095,
+    "api_final_f1": 0.286
+  },
+  "germtrax": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "wiserearth-facebook-app": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "wifi-and-plugs": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "you-twit": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.667
+  },
+  "best-hospitals-cancer-treatment": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "pinbooks": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.25
+  },
+  "heat": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "best-western-michigan-hotel-guide-3d": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "ayedeals": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.625,
+    "api_final_f1": 0.625
+  },
+  "foller.me": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "bookfriend": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.615,
+    "api_final_f1": 0.4
+  },
+  "netsuite-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "sweet-soundtrack": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "sharemetric-chrome-extension": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "starbucks-onair-bustour-locator": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "trackthis": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.632,
+    "api_final_f1": 0.8
+  },
+  "99designs-tasks-slack-bot": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "blog-posting-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "jars-love": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.4
+  },
+  "geofeeling": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "world-facebook-friends.": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "to.uri.st": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "seekatweet": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "mountains-world": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "hycke": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.333
+  },
+  "localmouth": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "extremeprofile-dives": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "see-your-hotel": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "flickair": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "cronote": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.8
+  },
+  "shout-now": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.667
+  },
+  "plan-your-road-trips": {
+    "category_f1": 0.6,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.6
+  },
+  "mapthegraph": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.667
+  },
+  "booksforsoul": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "social-contact": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "notifythem": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.667
+  },
+  "pricezombie-price-tracker": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "swine-flu-tweets-google-maps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ooyala": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mapsavings.com": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "cab-dialer": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.1,
+    "api_final_f1": 0.333
+  },
+  "checkinspy": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "200-towns": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "popurls.com": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.5
+  },
+  "google-map-search-gadget": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "smsroulette": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "ok-travel-australia": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.222
+  },
+  "jollat": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mappeo": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "mapping-latest-geogtagged-youtube-videos-related-to-egypt-protests": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "yelp-search": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "tweetshirt": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "routemakr": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "we-know": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "voxpix": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 1.0
+  },
+  "aimcrm": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "premiumshared.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "doodlepon": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "jammap-iphone": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.5
+  },
+  "retro-avatar-facebook": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "top-50-travel-locations": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.571
+  },
+  "sap-anywhere-xero-integration": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "speed-phone-dating": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.5
+  },
+  "zimride": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "joomflix-mashing-joomla-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "hvper": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.421
+  },
+  "textlisten": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.8
+  },
+  "make-me-change-my-job": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "hulimail": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0.25
+  },
+  "wishpot": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "localley": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tdash": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.571
+  },
+  "f1-standings-and-results-gadget": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "svraka": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "vimasic": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.4
+  },
+  "mashfot-mashup-about-photography": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "cbeams.org-deep-sky-objects-database": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.571
+  },
+  "tout": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "music-videos-wizard": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "editgrid-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "callrail": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.667
+  },
+  "infinilla": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "educationsearch.net": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "ditto": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "shaded-relief-world-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "blog-map": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "conceptshare-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ups-tracking": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "voyager-accountable-messaging": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "abramex": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "blogger-calendar": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "music-artist-cloud": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "stay-touch": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.25
+  },
+  "my-friends-mosaic": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "fourpocalypse-now": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapmyrun": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "vidscan": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "soccer-shots": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "mashery": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "citysounds.fm-sounds-cities": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "vegas-vision": {
+    "category_f1": 0.889,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "picwash-photo-retouch-service": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "elaboratorium-job-finder": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "timehop": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.6
+  },
+  "grabevery": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "sms-garage-door": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 1.0
+  },
+  "simplysubscribe.me": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.25
+  },
+  "sms-addon-wordpress-and-contact-form-7": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.4
+  },
+  "schoolandhousing": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "thursday-club": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "north-yorkshire-bike": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.333
+  },
+  "social-butterfly": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "file2cart": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.833,
+    "api_final_f1": 0.909
+  },
+  "glotter-maps": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "lyricstatus": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "fotoviewr": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.571
+  },
+  "rolemance": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "cloud4smsviatwilio": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "map-your-list": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.571
+  },
+  "timepost": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.667
+  },
+  "musicfeedz": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "breakout": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "fotobabble-business-marketing-collection": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "webmunism": {
+    "category_f1": 0.889,
+    "api_intermediate_f1": 0.889,
+    "api_final_f1": 0.889
+  },
+  "traces-conspiracy": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "trendsmap-real-time-local-twitter-trends": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "delicious-preview": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "jozomello": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "gulf-oil-spill-latest-youtube-videos": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.8
+  },
+  "craigslist-alerts": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "yet-another-twitter-map": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "mademyday.tv": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.5
+  },
+  "twitter-trends-explained": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.8
+  },
+  "audiggle": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "ogowoo": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 0.667
+  },
+  "cats-now": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "mohiomap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "out-loud": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.5
+  },
+  "doctor.com-doctor-search": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.286
+  },
+  "youcall-md": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "earth911-real-time-recycling-searches": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "walk-score-facebook-application": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "cool-bars-restaurants-and-clubs": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "fonfinder": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.4
+  },
+  "knowcal": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.333
+  },
+  "arrivedin.com": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "golf-guide": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "showhear": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.462,
+    "api_final_f1": 0.333
+  },
+  "decisions-heroes-0": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "quitjuice.com": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "vgpedia.net": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.5
+  },
+  "atlas-news": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "quickblox-ios-supersample": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.667
+  },
+  "brusselstripstad.be": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "iran-election-protest-tweet-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.667
+  },
+  "posterizer": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.5
+  },
+  "buddyguard": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.231,
+    "api_final_f1": 0.667
+  },
+  "dumpr.net": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "finda-park": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.4
+  },
+  "textwhosnext": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "touropia": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "deli-tv-boxee": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "europass.me": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "papership": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "zipmyurl": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "slurlmaker-second-life": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "musotik": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "seidistrada": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.8
+  },
+  "bbc-news-map": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "suburbified": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0
+  },
+  "one-page-artist": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "togfrog-adventure-travel-videos": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.667
+  },
+  "trackprofiler": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.75
+  },
+  "snipshot-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "weglore-geotag-photos-geo-news": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.069,
+    "api_final_f1": 0.25
+  },
+  "rhapsody-srobbler": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "utwitbook": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.286
+  },
+  "voxilate-silent-auction": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 1.0
+  },
+  "datacalifornia": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "google-contacts-map": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "tunisian-prison-map": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "billboardmart.com": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0
+  },
+  "tictrac": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "travel-portal-solution": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.4
+  },
+  "strange-strollers-oxfam-trailtrekker-2012-training-map": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "4sqtransit": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.4
+  },
+  "new-york-times-movie-tweets": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.5
+  },
+  "gruvr-0": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "last.fm-rankings": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ipextra.com": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.4
+  },
+  "scholarship-database": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 1.0
+  },
+  "lucille-hipchat-bot": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "goseeoregon.com": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "iphonelocator-facebook": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "judys-book": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tripbuster.co.uk": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.444
+  },
+  "google-apps-and-box.net": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "music-enthusiast": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.667
+  },
+  "fkscan": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "twilio-mvc": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "netvibes-orb-quick-finder": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "wordonthewire": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "wedgies": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.462,
+    "api_final_f1": 0.4
+  },
+  "call2record": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 1.0
+  },
+  "ness-dining-guide": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "song.ly": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0
+  },
+  "take-kerala-india": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.222
+  },
+  "chumpdump-chumpdar": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "feedbackfire": {
+    "category_f1": 0.222,
+    "api_intermediate_f1": 0.095,
+    "api_final_f1": 0.222
+  },
+  "omnimarket": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "isitbangus": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "bloglines-notifier": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "itooner": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "formstack-to-batchbook": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "spotify-mood-music": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "so-audible": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.05,
+    "api_final_f1": 0
+  },
+  "little-corner": {
+    "category_f1": 0.308,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0.348
+  },
+  "dbstract.com": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "print-billomat-invoices-google-cloud-print": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mediaburst-sms-through-shopify": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "weather-phone": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "phonetactoe": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twitter-atlas": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "real-time-simple-sms-voting-app": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0
+  },
+  "ideum": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0.174,
+    "api_final_f1": 0.571
+  },
+  "virtual-van": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "ipoki": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "wattquiz": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "orderitontheweb.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "oggchat-live-customer-chat": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "twitter-multilingual-voice-search": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "campusbird": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0.25
+  },
+  "magento-facebook-app": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "bandcamp-scrobbler": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "stufflix.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.5
+  },
+  "tracks-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "flixster": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "fast-quick-online-translator": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "tennis-jobs-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "worldcat-new-york-times": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "arms-dealer": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.105,
+    "api_final_f1": 0
+  },
+  "2011-march-madness-twitter-heatmap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "auroramap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "real-estate-listings-android": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 0
+  },
+  "youfm": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "loginradius": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.125
+  },
+  "us-top-business-schools-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "trashedtweet": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "currency-table": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.571
+  },
+  "savings.com-local-deals": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "altmetric-explorer": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "montreal-transit-planner": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "click2message": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.8
+  },
+  "virtual-nyc-tour": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "s3audible-music-and-video-streaming": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.667
+  },
+  "thetool": {
+    "category_f1": 0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "arlington-transit-touch-panel": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.316,
+    "api_final_f1": 0.571
+  },
+  "maiom-italy-real-estate": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.364
+  },
+  "eatery-search": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "callcollector": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.095,
+    "api_final_f1": 0.5
+  },
+  "norad-santa-tracker": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "videva": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "wakey-wakey": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "100-travel-destinations": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tweepsmap": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "twitter-earth": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "getsentiment-restaurant-reviews": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "newslinq": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "oilaholic": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0.286
+  },
+  "propertymaps.com-mobile-leads": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "social-mirror": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "trendybing": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0
+  },
+  "jobsyndicates": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "ringringbaby": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.333
+  },
+  "notifire": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "twitter-trends-tagged": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "snaggle": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "flickr-google-maps": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "twxlate": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.5
+  },
+  "musicnectar": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "drawloop-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "kqed-quest": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "youbeq-maps-life": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "route-scanner": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "map-game": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "captcha-bypass-service": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "turtilla-rss-mashup-tool": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "funpics": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 1.0
+  },
+  "meedeor": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.444
+  },
+  "reading-radar": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "freeflowtv": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.6
+  },
+  "fanbible": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "printout-designer": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "geoimpress": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.545,
+    "api_final_f1": 1.0
+  },
+  "tripfelt": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "smsmybus": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.4
+  },
+  "maps-australia": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "best-careers-information-center": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twibberish": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0
+  },
+  "down-or-not": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "tagtv": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "indash-sms-dashboard-auto-responder-nexmo": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0.4
+  },
+  "mashmush": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0
+  },
+  "retrotube": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "parkinfo-find-public-parks-california": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "fuhshnizzle-music-video-jukebox": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "music-tube": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "beat": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "linkedin-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "magento-mediaburst-sms-notifications": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.308,
+    "api_final_f1": 0.667
+  },
+  "2itch-open-24-hours": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "moviegram": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.429,
+    "api_final_f1": 0.5
+  },
+  "map-my-following": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "google-maps-meets-stuffopolis": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "suchr-germany": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "fizzboost": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "nettickr": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "citypockets-daily-deals": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.545,
+    "api_final_f1": 0.571
+  },
+  "traffic-amigo": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.571
+  },
+  "spinlets": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mapeas": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "make-minyan": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 1.0
+  },
+  "formstack-calendar": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "onair-air-app": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "tweetjourney": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 1.0
+  },
+  "tidespy-tide-charts-best-fishing-times": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "smart-baby-cards": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "hotelmapsearch.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "nomarketplace": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "cloudient-personal-digital-assistant": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.16,
+    "api_final_f1": 0.5
+  },
+  "map2tag-french-touch-map": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.24,
+    "api_final_f1": 0.857
+  },
+  "instashirt": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "dealzilla": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "klik-song-requests": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 1.0
+  },
+  "mytube60-power-hour-videos": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "girlfriend-x": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.333
+  },
+  "stop-new-nukes": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "national-vip": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "song-pic": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "skyscanner-evature-twitter-flight-search": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "monarch-butterfly-migration-explorer": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "bontq": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.333
+  },
+  "joomflix-mashing-joomla": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "open-city-agora": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.25
+  },
+  "music-codex.com": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "compare-hotels-europe": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "create-map-korea": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "google-yahoo-traffic-weather-maps": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "busylunches": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.074,
+    "api_final_f1": 0.4
+  },
+  "minidates": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0.5
+  },
+  "psykotube": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.143,
+    "api_final_f1": 0.4
+  },
+  "consumercue": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.571
+  },
+  "picnik-online-photo-editing": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "local-weather": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "camelcamelcamel": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "day-one-app": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "zaggle-zms": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.8
+  },
+  "keep-track-my-games": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "fitness-products": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "handmade-spark": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "infobiliaria.es-real-estate-spain": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "guardly": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.12,
+    "api_final_f1": 0.364
+  },
+  "discovr-movies": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.5
+  },
+  "gdrd": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "best-dining": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.222
+  },
+  "momingle": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "aa-route-planner": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "vodafone-update-app-blackberry-or-iphone": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.429,
+    "api_final_f1": 0.75
+  },
+  "autour2moi-events": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0.333
+  },
+  "music-updated": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "wild-food-map": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "fashion-diary": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "lodging-options-buenos-aires": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "allmusic-rovi": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "feedly-ios": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.889,
+    "api_final_f1": 1.0
+  },
+  "how-i-knew-you-were-one": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "iphone-public-transit-application": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.6
+  },
+  "dbpedia-mobile": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "trend-back-machine": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "ethnic-dining": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "barack-obama-white-house-journey": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "esellerads": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "twitshop": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "tagvy.com": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "crimelit": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "postal-code-mapper": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "stars-and-planetarium-search": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.222
+  },
+  "maps-all": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "etsy-signature": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "vehive.com": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "travel-baseball-team-locator": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "distances-calculator": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.6,
+    "api_final_f1": 0.444
+  },
+  "web-programming-jobs": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "map-deprivation-wales": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "iraq-coalition": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "christmas-list-app": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.133
+  },
+  "lunchflock": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.8
+  },
+  "overflown-countries": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.4
+  },
+  "youtube-slideshow-google-maps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "domains-topic-delexa.org": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.8
+  },
+  "geotwts": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 1.0
+  },
+  "tweetnews.mobi": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 1.0
+  },
+  "dog-food-coupons": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 1.0
+  },
+  "nodenock": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "dctweets": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "digest-report": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "rhapsody-top-feeds": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "worldsaurus.com-travel-guide": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.077,
+    "api_final_f1": 0.286
+  },
+  "lokerku.web.id": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "country-search": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "cloud-based-mail-merge-batchbook-and-drawloop": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twitwhere": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "calendarspotscom": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "explore-travellr": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "car-emissions-calculator": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mountains-mounts": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.5
+  },
+  "see-bournemouth": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "vocaboca-visual-translator-and-vocabulary-app": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "shopsmart-brazil": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.25
+  },
+  "fuel-your-school-chevron": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.667
+  },
+  "shared-count": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "instalyrics": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.333
+  },
+  "sportcentral": {
+    "category_f1": 0.75,
+    "api_intermediate_f1": 0.296,
+    "api_final_f1": 0.4
+  },
+  "snaptweet": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 1.0
+  },
+  "delicious-search-exploder": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "playmap.jp": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "call-me-meeting": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 1.0
+  },
+  "mesibo-real-time-chat-app": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 1.0
+  },
+  "pulse-medic": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "mr-and-mrs-smith-routeplanner": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "gp-hub": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "mp3-ja": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.111,
+    "api_final_f1": 0.333
+  },
+  "learnit-lists": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "daily-mashup": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "foxymap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "loc.alize.us-flickr-mapped": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.4
+  },
+  "suittsme": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "tuneglue": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "errorstack.com": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "homo-britannicus": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "twitea.me": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.75
+  },
+  "tumblr-twilio-voice-posts": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "r8ar-twitter-trend-visualizer": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "get-rhythm": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "umeshu.": {
+    "category_f1": 0.444,
+    "api_intermediate_f1": 0.056,
+    "api_final_f1": 0.222
+  },
+  "safetygrid": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.273,
+    "api_final_f1": 0.5
+  },
+  "crowdbeacon": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "radaroo": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.4
+  },
+  "findilike": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "flickr-wrappr": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 1.0
+  },
+  "friendfeed-and-box.net": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapisimo": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tipperary-food-producers-map": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "matchfwd-smart-social-recruiting": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "tatildukkanicom": {
+    "category_f1": 0.25,
+    "api_intermediate_f1": 0.071,
+    "api_final_f1": 0.25
+  },
+  "aircellcall": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.444,
+    "api_final_f1": 0.667
+  },
+  "mypicsmap": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "gearbum": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "hooky-map": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.571
+  },
+  "indonesiajobfair.com": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "flittr-0": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "rivr": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.667
+  },
+  "geiknows": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.5
+  },
+  "geo-talk": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 1.0
+  },
+  "thynews": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "flicks": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "ontheway": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0
+  },
+  "fun-tourist-attractions": {
+    "category_f1": 0.889,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.4
+  },
+  "kitewiese.de": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "book-vs-movie": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "moremap": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "chapterboard": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0
+  },
+  "raffle-swag": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 1.0
+  },
+  "omom-online-members-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "analytics-edge-connector-moz": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tweespeed": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.2,
+    "api_final_f1": 0.4
+  },
+  "last.fm-missing-album-finder": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "nyc-big-maps": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "context": {
+    "category_f1": 0.2,
+    "api_intermediate_f1": 0.118,
+    "api_final_f1": 0.111
+  },
+  "local-search-phone": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "supermetrics-data-grabber": {
+    "category_f1": 0.889,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "loppee": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0
+  },
+  "bing-education-map": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "gregs-pulse": {
+    "category_f1": 0.286,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "southwind-fan-and-light": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "shmapr": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "mapyourbuddies": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "stripe-payments-plugin": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.211,
+    "api_final_f1": 1.0
+  },
+  "geowalk-light": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.235,
+    "api_final_f1": 0.4
+  },
+  "caller-ig": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "flotzam": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "eletrohitz": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "twittercamp": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "collection-trakr": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.5
+  },
+  "amazon-widgets": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "facebook-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twizon": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.8
+  },
+  "stupeflix-tv": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.857,
+    "api_final_f1": 0.857
+  },
+  "amazon-shopping-mashup": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "geomeme": {
+    "category_f1": 0.857,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "lokrr.com": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "wetterwolke": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "your-baby-now": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.222,
+    "api_final_f1": 0.333
+  },
+  "trender-blender": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "i-need-bike": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "censusmapper-app-mashup-census-data-bing-maps": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.5
+  },
+  "probably-true": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "sharemyroutes.com": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.125,
+    "api_final_f1": 0.25
+  },
+  "public-domain-reprints": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "httpbusalert.me": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "naturized-spots": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "kissmetrics-shopify": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "clickpoint": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "explore-to-yellow-pages": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.909,
+    "api_final_f1": 0.909
+  },
+  "postalmethods-and-box.net": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "fly-time-notify": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "beer-signal": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "i-dont-need-no-stinking-phone": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.154,
+    "api_final_f1": 0.667
+  },
+  "punknroll-watch-and-listen-to-rock-music": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "theinterviewr": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "mybill.": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.364,
+    "api_final_f1": 0.364
+  },
+  "quotemunk": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "songlist": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "jesuspad": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "open-ftp": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.182,
+    "api_final_f1": 0.286
+  },
+  "beanvest": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.75,
+    "api_final_f1": 0.75
+  },
+  "birds-world": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "twitgraph": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "takeout-roulette": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "mailchimp-eventbrite-integration": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "happy-hour-share": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "tweet-lot": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.444
+  },
+  "news-trends-trendrr": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "phonzy-audiopost": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.267,
+    "api_final_f1": 0.8
+  },
+  "pockets-app": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.8
+  },
+  "twitter-voice": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "actually": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "movies-now-playing": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 1.0
+  },
+  "paypal-thrutu": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "mapa-del-paro": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.571,
+    "api_final_f1": 0.571
+  },
+  "my-google": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.667,
+    "api_final_f1": 0.667
+  },
+  "infobiliaria-spain": {
+    "category_f1": 0.667,
+    "api_intermediate_f1": 0.167,
+    "api_final_f1": 0
+  },
+  "local-rvs": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 1.0,
+    "api_final_f1": 1.0
+  },
+  "phoneco.": {
+    "category_f1": 0.8,
+    "api_intermediate_f1": 0.8,
+    "api_final_f1": 0.8
+  },
+  "icecharge": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "product-videos-woocommerce": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.5
+  },
+  "north-american-environmental-atlas": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.286,
+    "api_final_f1": 0.286
+  },
+  "contentful": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.5,
+    "api_final_f1": 0.667
+  },
+  "textweight": {
+    "category_f1": 0.5,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.571
+  },
+  "3d-guide-to-downtown-ferndale-michigan": {
+    "category_f1": 0.4,
+    "api_intermediate_f1": 0.333,
+    "api_final_f1": 0.333
+  },
+  "bestperf": {
+    "category_f1": 0.333,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "4-1-search": {
+    "category_f1": 0.571,
+    "api_intermediate_f1": 0.25,
+    "api_final_f1": 0.286
+  },
+  "motivation-mix": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  },
+  "beermap-top-2500-beers-twitter": {
+    "category_f1": 1.0,
+    "api_intermediate_f1": 0.4,
+    "api_final_f1": 0.4
+  },
+  "all-world-national-anthems-mashup-service": {
+    "category_f1": 0,
+    "api_intermediate_f1": 0,
+    "api_final_f1": 0
+  }
+}

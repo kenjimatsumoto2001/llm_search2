@@ -6,18 +6,19 @@ import os
 """""""③整形したいllmモデル選択"""""""""
 # input_model = "deepseek-r1:70b"
 input_model = "llama3.3:latest"
+# input_model = "gpt4.1-mini"
 #input_model = "gemma3:27b"
 """""""②整形したいプロンプト選択"""""""""
 # prompt_method_name = "few_shot_cot"
-# prompt_method_name = "few_shot_cot_with_inference_process"
-prompt_method_name = "few_shot"
+prompt_method_name = "few_shot_cot_with_inference_process"
+# prompt_method_name = "few_shot"
 # prompt_method_name = "few_shot_ablation"
 # prompt_method_name ="plan_and_solve"
 # prompt_method_name = "zero_shot_cot"
 # prompt_method_name = "zero_shot_cot_with_inference_process"
 # prompt_method_name ="zero_shot"
 """""""③使用したいGPU"""""""""
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 ########################################################################
 # メソッド名 → ファイル名のマッピング
@@ -37,6 +38,8 @@ def extract_model_name(model_str):
         return "llama"
     elif "gemma" in model_str.lower():
         return "gemma"
+    elif "gpt" in model_str.lower():
+        return "gpt"
     else:
         return "other"
 #モデル名を変換
@@ -190,8 +193,10 @@ def process_json_file_incremental(input_file: str, output_file: str, prompt_meth
     print(f"整形完了: {output_file} に保存しました")
 
 if __name__ == "__main__":
-    input_path = f"./output/{input_model_name}/{short_name}/responses.json"
-    output_path = f"./output/{input_model_name}/{short_name}/responses_formatted.json"
+    # input_path = f"./output/{input_model_name}/{short_name}/responses.json"
+    # output_path = f"./output/{input_model_name}/{short_name}/responses_formatted.json"
+    input_path = f"./output/{input_model_name}/bert_top6/bert_responses.json"
+    output_path = f"./output/{input_model_name}/bert_top6/responses_formatted.json"
     print("整形するファイルパス", input_path)
     print("###########################################################")
     process_json_file_incremental(input_path, output_path, prompt_method_name)

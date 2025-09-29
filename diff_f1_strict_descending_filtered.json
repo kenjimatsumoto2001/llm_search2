@@ -1,0 +1,156 @@
+{
+  "last.fm-music-map": {
+    "category_f1s": {
+      "top6": 1.0,
+      "top3_low3": 0.8,
+      "low6": 0.667
+    },
+    "category_diff": 0.333,
+    "api_final_f1s": {
+      "top6": 1.0,
+      "top3_low3": 0.8,
+      "low6": 0.333
+    },
+    "api_diff": 0.667
+  },
+  "propertymaps.com-mobile-leads": {
+    "category_f1s": {
+      "top6": 1.0,
+      "top3_low3": 0.571,
+      "low6": 0.286
+    },
+    "category_diff": 0.714,
+    "api_final_f1s": {
+      "top6": 1.0,
+      "top3_low3": 0.571,
+      "low6": 0.286
+    },
+    "api_diff": 0.714
+  },
+  "twitgraph": {
+    "category_f1s": {
+      "top6": 0.667,
+      "top3_low3": 0.571,
+      "low6": 0.286
+    },
+    "category_diff": 0.381,
+    "api_final_f1s": {
+      "top6": 0.571,
+      "top3_low3": 0.333,
+      "low6": 0.25
+    },
+    "api_diff": 0.321
+  },
+  "local-bike-trader": {
+    "category_f1s": {
+      "top6": 0.857,
+      "top3_low3": 0.4,
+      "low6": 0.333
+    },
+    "category_diff": 0.524,
+    "api_final_f1s": {
+      "top6": 0.571,
+      "top3_low3": 0.4,
+      "low6": 0.286
+    },
+    "api_diff": 0.285
+  },
+  "holidayen": {
+    "category_f1s": {
+      "top6": 0.75,
+      "top3_low3": 0.571,
+      "low6": 0.222
+    },
+    "category_diff": 0.528,
+    "api_final_f1s": {
+      "top6": 0.4,
+      "top3_low3": 0.222,
+      "low6": 0.182
+    },
+    "api_diff": 0.218
+  },
+  "songvoodoo": {
+    "category_f1s": {
+      "top6": 0.8,
+      "top3_low3": 0.5,
+      "low6": 0.4
+    },
+    "category_diff": 0.4,
+    "api_final_f1s": {
+      "top6": 0.8,
+      "top3_low3": 0.4,
+      "low6": 0.333
+    },
+    "api_diff": 0.467
+  },
+  "blizzalert-0": {
+    "category_f1s": {
+      "top6": 0.8,
+      "top3_low3": 0.667,
+      "low6": 0.5
+    },
+    "category_diff": 0.3,
+    "api_final_f1s": {
+      "top6": 0.8,
+      "top3_low3": 0.667,
+      "low6": 0.5
+    },
+    "api_diff": 0.3
+  },
+  "vodafone-update-app-android": {
+    "category_f1s": {
+      "top6": 1.0,
+      "top3_low3": 0.667,
+      "low6": 0.286
+    },
+    "category_diff": 0.714,
+    "api_final_f1s": {
+      "top6": 1.0,
+      "top3_low3": 0.857,
+      "low6": 0.5
+    },
+    "api_diff": 0.5
+  },
+  "clickpoint": {
+    "category_f1s": {
+      "top6": 0.667,
+      "top3_low3": 0.4,
+      "low6": 0.333
+    },
+    "category_diff": 0.334,
+    "api_final_f1s": {
+      "top6": 0.75,
+      "top3_low3": 0.667,
+      "low6": 0.286
+    },
+    "api_diff": 0.464
+  },
+  "domains-topic-delexa.org": {
+    "category_f1s": {
+      "top6": 0.571,
+      "top3_low3": 0.4,
+      "low6": 0.222
+    },
+    "category_diff": 0.349,
+    "api_final_f1s": {
+      "top6": 0.8,
+      "top3_low3": 0.667,
+      "low6": 0.4
+    },
+    "api_diff": 0.4
+  },
+  "tripfelt": {
+    "category_f1s": {
+      "top6": 0.75,
+      "top3_low3": 0.667,
+      "low6": 0.5
+    },
+    "category_diff": 0.25,
+    "api_final_f1s": {
+      "top6": 0.667,
+      "top3_low3": 0.6,
+      "low6": 0.444
+    },
+    "api_diff": 0.223
+  }
+}

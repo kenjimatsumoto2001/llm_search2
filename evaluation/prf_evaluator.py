@@ -21,3 +21,4 @@ class prf_Calculator:
         avg_f_score = sum(m[2] for m in metrics_list) / len(metrics_list) if metrics_list else 0
         print(f"Precision: {avg_precision}, Recall: {avg_recall}, F-Score: {avg_f_score}")
         return avg_precision, avg_recall, avg_f_score
+
