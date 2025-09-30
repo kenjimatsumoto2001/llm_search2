@@ -24,7 +24,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "It selects and recommends suitable categories and APIs from the specified Available categories and Available APIs according to the given requirements.\n"
                     
                 )
             },
@@ -56,7 +55,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "It selects and recommends suitable categories and APIs from the specified Available categories and Available APIs according to the given requirements\n"
                 )
             },
 
@@ -87,7 +85,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "It selects and recommends suitable categories and APIs from the specified Available categories and Available APIs according to the given requirements\n"
                 )
             },
 
@@ -118,7 +115,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "It selects and recommends suitable categories and APIs from the specified Available categories and Available APIs according to the given requirements\n"
                 )
             }
         ]
@@ -213,7 +209,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "It selects and recommends suitable categories and APIs from the specified Available categories and Available APIs according to the given requirements\n"
                 )
             }
         ]
@@ -248,7 +243,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "It selects and proposes suitable APIs from the specified available categories and available APIs based on the given Requirements.\n"
                 )
             }
         ]
@@ -417,8 +411,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of a mashup service.\n"
-                    "The goal is to logically progress from the given Requirements to the core functionalities, "
-                    "then to the proposed API categories, and finally to the selected and recommended APIs.\n"
                     "Follow this reasoning process:\n"
                     "1. Infer the core functionalities of the mashup service based on the given Requirements.\n"
                     "2. Identify and propose multiple highly relevant API categories from the Available categories.\n"
@@ -455,8 +447,6 @@ class MashupServiceRecommendation_open_llm:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "The goal is to logically progress from the given Requirements to the core functionalities, "
-                    "then to the proposed API categories, and finally to the selected and recommended APIs.\n"
                     "It follows the reasoning process below:\n"
                     "1. Infer the core functionalities of the mashup service based on the given Requirements.\n"
                     "2. Identify and propose relevant API categories from the available categories based on the core functionalities and available apis.\n"

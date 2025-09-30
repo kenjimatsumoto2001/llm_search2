@@ -19,8 +19,6 @@ class MashupServiceRecommendation_openai:
                 "role": "system",
                 "content": (
                     "This is a system for proposing appropriate APIs based on the Requirements of mashup service.\n"
-                    "The goal is to logically progress from the given Requirements to the core functionalities, "
-                    "then to the proposed API categories, and finally to the selected and recommended APIs.\n"
                     "It follows the reasoning process below:\n"
                     "1. Infer the core functionalities of the mashup service based on the given Requirements.\n"
                     "2. Identify and propose relevant API categories from the available categories.\n"
